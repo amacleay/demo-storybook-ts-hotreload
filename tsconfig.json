@@ -6,6 +6,7 @@
       "es2015",
       "es2017"
     ],
+    "jsx": "react", // Specify JSX code generation.
 
     /* Strict Type-Checking Options */
     "strict": true, // Enable all strict type-checking options.
